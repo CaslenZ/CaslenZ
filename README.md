@@ -1,5 +1,5 @@
 ### Hi there 👋
-## 欢迎光临 CaslenZ 的 GitHub 主页。
+## Welcome to CaslenZ's GitHub Homepage. 欢迎光临 CaslenZ 的 GitHub 主页。
 ### 💬Programming Language 编程语言
 Python（Know a little 了解一点）   Graphical 图形化（Relatively familiar 相对了解）
 ### 🤖Hobbies and Learning 爱好与学习
