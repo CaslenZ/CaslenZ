@@ -12,6 +12,6 @@ Secondary job: Simple Python Development
 
 ## Contact me  
 About my program: Raise an issue in the relevant repositories.  
-Any other: [My E-mail](caslenzh@gmail.com) 
+Any other: [My E-mail](mailto:caslenzh@gmail.com) 
 
 
