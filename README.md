@@ -1,10 +1,6 @@
 ### Hi there 👋
 ## Welcome to CaslenZ's GitHub Homepage.  
   
-## 💻 What's my job?  
-🕐 Main job: zh-Hant Translation  
-🕑 Secondary job: Simple Python Development  
-  
 ## 💬 To me  
 ⌨️ Suggest some areas for improvement in my translation or program  
 💡 Share some creativity and ideas with me  
